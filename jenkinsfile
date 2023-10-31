@@ -1,5 +1,1 @@
-import com.cloudbees.jenkins.GitHubRepositoryNameContributor;
-
-for (Item job : Jenkins.getInstance().getAllItems(Item.class)) {
-  print(GitHubRepositoryNameContributor.parseAssociatedNames(job))
-}
+!!!!!
